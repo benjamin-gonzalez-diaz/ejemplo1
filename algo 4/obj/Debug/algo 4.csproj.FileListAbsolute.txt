@@ -1,0 +1,7 @@
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\bin\Debug\algo 4.exe.config
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\bin\Debug\algo 4.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\bin\Debug\algo 4.pdb
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\obj\Debug\algo 4.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\obj\Debug\algo 4.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\obj\Debug\algo 4.pdb
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 4\obj\Debug\algo 4.csprojAssemblyReference.cache

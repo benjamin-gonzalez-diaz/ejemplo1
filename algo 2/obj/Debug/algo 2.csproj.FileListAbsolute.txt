@@ -1,0 +1,6 @@
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\bin\Debug\algo 2.exe.config
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\bin\Debug\algo 2.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\bin\Debug\algo 2.pdb
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\obj\Debug\algo 2.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\obj\Debug\algo 2.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\algo 2\obj\Debug\algo 2.pdb

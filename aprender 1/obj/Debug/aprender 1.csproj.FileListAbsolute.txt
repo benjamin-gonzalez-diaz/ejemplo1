@@ -1,0 +1,7 @@
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\obj\Debug\aprender 1.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\obj\Debug\aprender 1.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\bin\Debug\aprender 1.exe.config
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\bin\Debug\aprender 1.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\bin\Debug\aprender 1.pdb
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\obj\Debug\aprender 1.exe
+C:\Users\56984\Desktop\segundo semestre 2020\poo\aprender 1\aprender 1\obj\Debug\aprender 1.pdb
